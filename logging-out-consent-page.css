@@ -1,0 +1,76 @@
+.alumconnect-icon15 {
+  position: absolute;
+  top: 4.6px;
+  left: calc(50% - 41.05px);
+  width: 143.7px;
+  height: 24.9px;
+}
+.logo-combo15,
+.logo-mark-icon15 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 102.55px);
+  width: 35.8px;
+  height: 35.8px;
+}
+.logo-combo15 {
+  top: 50px;
+  left: calc(50% - 677px);
+  width: 205.1px;
+  cursor: pointer;
+}
+.component-1frame-41 {
+  position: absolute;
+  top: 854px;
+  left: calc(50% - 361px);
+  width: 721px;
+  height: 54px;
+  overflow: hidden;
+}
+.byecuate-icon {
+  position: absolute;
+  height: 57.43%;
+  width: 38.7%;
+  top: 18.27%;
+  right: 30.12%;
+  bottom: 24.3%;
+  left: 31.18%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.youre-logging-out {
+  margin: 0;
+}
+.we-hope-to {
+  margin: 0;
+  color: var(--border-active);
+}
+.youll-be-redirected {
+  margin: 0;
+  color: var(--primary-color-50);
+}
+.youre-logging-out-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.component-3 {
+  position: absolute;
+  top: 855px;
+  left: calc(50% - 367px);
+  width: 733px;
+  height: 56px;
+  overflow: hidden;
+}
+.logging-out-consent-page {
+  width: 100%;
+  position: relative;
+  background-color: var(--background-color);
+  height: 996px;
+  overflow-x: auto;
+  text-align: center;
+  font-size: var(--header-1-size);
+  color: var(--primary-color-1);
+  font-family: var(--header-6);
+}

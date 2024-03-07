@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./logging-out-consent-page.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Coolvetica:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Open Sans:wght@400;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="logging-out-consent-page">
+      <div class="logo-combo15" id="logoComboContainer">
+        <img class="alumconnect-icon15" alt="" src="./public/alumconnect.svg" />
+
+        <img class="logo-mark-icon15" alt="" src="./public/logo-mark.svg" />
+      </div>
+      <div class="component-1frame-41"></div>
+      <img class="byecuate-icon" alt="" src="./public/byecuate.svg" />
+
+      <div class="component-3">
+        <div class="youre-logging-out-container">
+          <p class="youre-logging-out">You’re Logging Out...</p>
+          <p class="we-hope-to">We Hope to See You Soon!</p>
+          <p class="youll-be-redirected">
+            You’ll Be Redirected to Our Landing Page...
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      var logoComboContainer = document.getElementById("logoComboContainer");
+      if (logoComboContainer) {
+        logoComboContainer.addEventListener("click", function () {
+          var anchor = document.querySelector("[data-scroll-to='rectangle']");
+          if (anchor) {
+            anchor.scrollIntoView({ block: "start", behavior: "smooth" });
+          }
+        });
+      }
+      </script>
+  </body>
+</html>
