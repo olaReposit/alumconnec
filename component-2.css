@@ -1,0 +1,63 @@
+.youre-logging-out1 {
+  margin: 0;
+}
+.we-hope-to1 {
+  margin: 0;
+  color: var(--border-active);
+}
+.youll-be-redirected1 {
+  margin: 0;
+  color: var(--primary-color-50);
+}
+.youre-logging-out-container1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.property-1frame-you {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 733px;
+  height: 56px;
+  overflow: hidden;
+}
+.youre-logging-out-container2 {
+  position: absolute;
+  top: -53px;
+  left: 0;
+}
+.property-1frame-we-hope {
+  position: absolute;
+  top: 110px;
+  left: 20px;
+  width: 733px;
+  height: 56px;
+  overflow: hidden;
+}
+.youre-logging-out-container3 {
+  position: absolute;
+  top: -106px;
+  left: 0;
+}
+.property-1frame-youll-be {
+  position: absolute;
+  top: 200px;
+  left: 20px;
+  width: 733px;
+  height: 56px;
+  overflow: hidden;
+}
+.component-2 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-8xs);
+  border: 1px dashed #9747ff;
+  box-sizing: border-box;
+  height: 276px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--header-1-size);
+  color: var(--primary-color-1);
+  font-family: var(--header-6);
+}
