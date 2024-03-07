@@ -1,0 +1,91 @@
+.sign-up-waiting-page-child {
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 1510px;
+  height: 939px;
+}
+.nav-child7 {
+  width: 1512px;
+  position: relative;
+  background-color: var(--color-gray-200);
+  backdrop-filter: blur(20px);
+  height: 100px;
+  z-index: 0;
+}
+.alumconnect-icon17 {
+  position: absolute;
+  top: 4.5px;
+  left: calc(50% - 40.25px);
+  width: 140.5px;
+  height: 24.3px;
+}
+.logo-mark-icon17 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 100.35px);
+  width: 35px;
+  height: 35px;
+}
+.logo-combo17 {
+  width: 200.7px;
+  position: relative;
+  height: 35px;
+}
+.logo-combo-wrapper1,
+.nav9 {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.logo-combo-wrapper1 {
+  margin: 0 !important;
+  top: 27px;
+  left: calc(50% - 100px);
+  flex-direction: row;
+  cursor: pointer;
+  z-index: 1;
+}
+.nav9 {
+  top: 0;
+  left: 0;
+  flex-direction: column;
+  gap: 10px 0;
+}
+.hold-on,
+.it-will-take {
+  position: absolute;
+  top: 433px;
+  left: 821px;
+}
+.it-will-take {
+  top: 503px;
+  font-size: var(--header-4-size);
+  color: var(--primary-color-1);
+  display: inline-block;
+  width: 500px;
+}
+.waitingpana-icon {
+  position: absolute;
+  height: 69.01%;
+  width: 43.85%;
+  top: 21.57%;
+  right: 47.95%;
+  bottom: 9.42%;
+  left: 8.2%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.sign-up-waiting-page {
+  width: 100%;
+  position: relative;
+  background-color: var(--background-color);
+  height: 941px;
+  overflow-x: auto;
+  text-align: left;
+  font-size: var(--header-1-size);
+  color: var(--color-black);
+  font-family: var(--header-6);
+}

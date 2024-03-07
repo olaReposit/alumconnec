@@ -1,0 +1,620 @@
+.sign-in-page-child {
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 1510px;
+  height: 983px;
+}
+.sign-in-page-inner,
+.sign-in-page-item {
+  position: absolute;
+  top: 120px;
+  left: calc(50% - 162px);
+  border-radius: 50%;
+  background-color: var(--color-lemonchiffon);
+  width: 320px;
+  height: 320px;
+}
+.sign-in-page-inner {
+  top: 819px;
+  left: calc(50% + 561px);
+  width: 150px;
+  height: 150px;
+}
+.background-complete-icon1 {
+  height: 87.81%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 12.19%;
+  left: 0;
+}
+.background-complete-icon1,
+.background-simple-icon1,
+.floor-icon1 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.background-simple-icon1 {
+  height: 68.86%;
+  width: 72.55%;
+  top: 20.22%;
+  right: 16.57%;
+  bottom: 10.92%;
+  left: 10.88%;
+  opacity: 0;
+}
+.floor-icon1 {
+  height: 0.12%;
+  width: 72.61%;
+  top: 99.88%;
+  right: 14.75%;
+  bottom: 0;
+  left: 12.64%;
+}
+.padlock-icon1,
+.plant-icon1,
+.vector-icon31,
+.vector-icon32,
+.vector-icon33 {
+  position: absolute;
+  height: 34.09%;
+  width: 19.44%;
+  top: 45.34%;
+  right: 15.47%;
+  bottom: 20.57%;
+  left: 65.09%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.padlock-icon1,
+.vector-icon31,
+.vector-icon32,
+.vector-icon33 {
+  height: 23.75%;
+  width: 19.5%;
+  top: 1.12%;
+  right: 16.53%;
+  bottom: 75.13%;
+  left: 63.97%;
+}
+.vector-icon31,
+.vector-icon32,
+.vector-icon33 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.vector-icon32,
+.vector-icon33 {
+  height: 93.52%;
+  width: 90.78%;
+  top: 2.96%;
+  right: 4.64%;
+  bottom: 3.52%;
+  left: 4.58%;
+}
+.vector-icon33 {
+  height: 7.96%;
+  width: 53.29%;
+  top: 77.43%;
+  right: 23.33%;
+  bottom: 14.61%;
+  left: 23.39%;
+}
+.sing-up1 {
+  position: absolute;
+  height: 3.4%;
+  width: 22.85%;
+  top: 79.41%;
+  left: 38.28%;
+  display: inline-block;
+}
+.vector-icon34 {
+  height: 1.66%;
+  width: 17.84%;
+  top: 27.45%;
+  right: 65.4%;
+  bottom: 70.9%;
+  left: 16.76%;
+  object-fit: contain;
+}
+.vector-icon34,
+.vector-icon35,
+.vector-icon36,
+.vector-icon37,
+.vector-icon38 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon35 {
+  height: 1.66%;
+  width: 17.84%;
+  top: 27.45%;
+  right: 65.4%;
+  bottom: 70.9%;
+  left: 16.76%;
+  object-fit: contain;
+  opacity: 0.1;
+}
+.vector-icon36,
+.vector-icon37,
+.vector-icon38 {
+  height: 5.97%;
+  width: 71.49%;
+  top: 31.35%;
+  right: 12%;
+  bottom: 62.67%;
+  left: 16.52%;
+}
+.vector-icon37,
+.vector-icon38 {
+  height: 1.51%;
+  width: 32.55%;
+  top: 33.27%;
+  right: 45.33%;
+  bottom: 65.22%;
+  left: 22.12%;
+}
+.vector-icon38 {
+  opacity: 0.2;
+}
+.vector-icon39 {
+  height: 1.66%;
+  width: 17.84%;
+  top: 42.09%;
+  right: 65.52%;
+  bottom: 56.26%;
+  left: 16.64%;
+  object-fit: contain;
+}
+.vector-icon39,
+.vector-icon40,
+.vector-icon41 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon40 {
+  height: 1.66%;
+  width: 17.84%;
+  top: 42.09%;
+  right: 65.52%;
+  bottom: 56.26%;
+  left: 16.64%;
+  object-fit: contain;
+  opacity: 0.1;
+}
+.vector-icon41 {
+  height: 5.97%;
+  width: 71.49%;
+  top: 46.02%;
+  right: 12.18%;
+  bottom: 48%;
+  left: 16.34%;
+}
+.vector-icon42 {
+  height: 1.66%;
+  width: 17.84%;
+  top: 57.35%;
+  right: 65.7%;
+  bottom: 40.99%;
+  left: 16.46%;
+  object-fit: contain;
+}
+.vector-icon42,
+.vector-icon43,
+.vector-icon44 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon43 {
+  height: 1.66%;
+  width: 17.84%;
+  top: 57.35%;
+  right: 65.7%;
+  bottom: 40.99%;
+  left: 16.46%;
+  object-fit: contain;
+  opacity: 0.1;
+}
+.vector-icon44 {
+  height: 6%;
+  width: 71.49%;
+  top: 61.22%;
+  right: 12.24%;
+  bottom: 32.77%;
+  left: 16.27%;
+}
+.vector-icon45 {
+  height: 1.57%;
+  width: 32.61%;
+  top: 48.24%;
+  right: 45.99%;
+  bottom: 50.19%;
+  left: 21.4%;
+  object-fit: contain;
+}
+.vector-icon45,
+.vector-icon46,
+.vector-icon47,
+.vector-icon48,
+.vector-icon49 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon46 {
+  height: 1.57%;
+  width: 32.61%;
+  top: 48.24%;
+  right: 45.99%;
+  bottom: 50.19%;
+  left: 21.4%;
+  object-fit: contain;
+  opacity: 0.2;
+}
+.vector-icon47,
+.vector-icon48,
+.vector-icon49 {
+  height: 1.39%;
+  width: 2.83%;
+  top: 63.71%;
+  right: 75.65%;
+  bottom: 34.9%;
+  left: 21.52%;
+}
+.vector-icon48,
+.vector-icon49 {
+  height: 1.51%;
+  right: 71.25%;
+  bottom: 34.78%;
+  left: 25.92%;
+}
+.vector-icon49 {
+  height: 1.39%;
+  right: 66.85%;
+  bottom: 34.9%;
+  left: 30.32%;
+}
+.group-icon1,
+.vector-icon50,
+.vector-icon51,
+.vector-icon52,
+.vector-icon53,
+.vector-icon54,
+.vector-icon55 {
+  position: absolute;
+  height: 1.39%;
+  width: 2.83%;
+  top: 63.74%;
+  right: 62.45%;
+  bottom: 34.87%;
+  left: 34.72%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-icon1,
+.vector-icon51,
+.vector-icon52,
+.vector-icon53,
+.vector-icon54,
+.vector-icon55 {
+  right: 58.05%;
+  left: 39.12%;
+}
+.group-icon1,
+.vector-icon52,
+.vector-icon53,
+.vector-icon54,
+.vector-icon55 {
+  right: 53.59%;
+  left: 43.58%;
+}
+.group-icon1,
+.vector-icon53,
+.vector-icon54,
+.vector-icon55 {
+  height: 1.51%;
+  top: 63.77%;
+  right: 49.19%;
+  bottom: 34.72%;
+  left: 47.98%;
+}
+.group-icon1,
+.vector-icon54,
+.vector-icon55 {
+  height: 1.39%;
+  right: 44.79%;
+  bottom: 34.84%;
+  left: 52.38%;
+}
+.group-icon1,
+.vector-icon55 {
+  right: 40.39%;
+  left: 56.78%;
+}
+.group-icon1 {
+  height: 1.57%;
+  width: 38.16%;
+  top: 63.71%;
+  right: 40.33%;
+  bottom: 34.72%;
+  left: 21.52%;
+  opacity: 0.2;
+}
+.vector-icon56 {
+  height: 4.91%;
+  width: 9.16%;
+  top: 12.95%;
+  right: 42.98%;
+  bottom: 82.14%;
+  left: 47.86%;
+}
+.vector-icon56,
+.vector-icon57,
+.vector-icon58,
+.vector-icon59 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon57 {
+  height: 4.91%;
+  width: 9.16%;
+  top: 12.95%;
+  right: 42.98%;
+  bottom: 82.14%;
+  left: 47.86%;
+  opacity: 0.1;
+}
+.vector-icon58,
+.vector-icon59 {
+  height: 1.98%;
+  width: 32.67%;
+  top: 19.14%;
+  right: 31.77%;
+  bottom: 78.88%;
+  left: 35.56%;
+  object-fit: contain;
+}
+.vector-icon59 {
+  opacity: 0.2;
+}
+.device1 {
+  position: absolute;
+  height: 70.19%;
+  width: 33.81%;
+  top: 11.65%;
+  right: 29.28%;
+  bottom: 18.16%;
+  left: 36.91%;
+}
+.character-icon1,
+.speech-bubble-icon1 {
+  position: absolute;
+  height: 13.97%;
+  width: 12.06%;
+  top: 32.09%;
+  right: 74.59%;
+  bottom: 53.93%;
+  left: 13.35%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.character-icon1 {
+  height: 66.39%;
+  width: 33.52%;
+  top: 33.53%;
+  right: 47.1%;
+  bottom: 0.08%;
+  left: 19.38%;
+}
+.mobile-loginpana1 {
+  position: absolute;
+  height: 49%;
+  width: 32.45%;
+  top: 29.81%;
+  right: 11.26%;
+  bottom: 21.19%;
+  left: 56.28%;
+}
+.nav-child1 {
+  width: 1512px;
+  position: relative;
+  background-color: var(--color-gray-200);
+  backdrop-filter: blur(20px);
+  height: 100px;
+  z-index: 0;
+}
+.alumconnect-icon5,
+.logo-mark-icon5 {
+  position: absolute;
+  top: 4.5px;
+  left: calc(50% - 40.25px);
+  width: 140.5px;
+  height: 24.3px;
+}
+.logo-mark-icon5 {
+  top: 0;
+  left: calc(50% - 100.35px);
+  width: 35px;
+  height: 35px;
+}
+.logo-combo5 {
+  width: 200.7px;
+  position: relative;
+  height: 35px;
+}
+.logo-combo-container,
+.nav3 {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.logo-combo-container {
+  margin: 0 !important;
+  top: 27px;
+  left: calc(50% - 100px);
+  flex-direction: row;
+  cursor: pointer;
+  z-index: 1;
+}
+.nav3 {
+  top: 0;
+  left: 0;
+  flex-direction: column;
+  gap: 10px 0;
+}
+.sign-up-card-item {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 245px);
+  border-radius: var(--br-31xl);
+  background-color: var(--background-color);
+  width: 490px;
+  height: 597px;
+}
+.sign-up9 {
+  color: var(--border-active);
+}
+.dont-have-an-container {
+  position: absolute;
+  top: 525px;
+  left: 128px;
+  font-size: var(--body-size);
+  cursor: pointer;
+  color: var(--color-gray-100);
+}
+.log-in4 {
+  position: absolute;
+  top: 50px;
+  left: 205px;
+  font-size: var(--header-3-size);
+  font-family: var(--header-6);
+  color: var(--primary-color-1);
+}
+.matric-no1 {
+  position: absolute;
+  top: 0;
+  left: 30px;
+  text-transform: uppercase;
+}
+.fnd2132100541 {
+  position: absolute;
+  top: 17px;
+  left: 36px;
+  font-weight: 600;
+}
+.fnd213210054-group,
+.group-child20 {
+  position: absolute;
+  left: 0;
+  width: 377px;
+  height: 56px;
+}
+.group-child20 {
+  top: 0;
+  border-radius: var(--br-12xl-5);
+  border: 2px solid var(--border-inactive);
+  box-sizing: border-box;
+}
+.fnd213210054-group {
+  top: 30px;
+  font-size: var(--body-size);
+  color: var(--border-inactive);
+}
+.matric-no-group,
+.vector-icon60 {
+  position: absolute;
+  top: 174px;
+  left: 57px;
+  width: 377px;
+  height: 86px;
+}
+.vector-icon60 {
+  height: 47.68%;
+  width: 7.96%;
+  top: 26.79%;
+  right: 9.55%;
+  bottom: 25.54%;
+  left: 82.49%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.password-group {
+  position: absolute;
+  top: 285px;
+  left: 57px;
+  width: 377px;
+  height: 86px;
+}
+.log-in5 {
+  position: relative;
+}
+.log-in-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-12xl-5);
+  background-color: var(--border-active);
+  width: 376px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-mini) var(--padding-144xl);
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.log-in-button {
+  position: absolute;
+  top: 431px;
+  left: 57px;
+  width: 376px;
+  height: 54px;
+  text-align: center;
+  font-size: var(--header-5-size);
+  color: var(--background-color);
+  font-family: var(--header-6);
+}
+.sign-up-card1 {
+  position: absolute;
+  top: 231px;
+  left: calc(50% - 552px);
+  width: 490px;
+  height: 597px;
+  font-size: var(--header-6-size);
+  color: var(--color-black);
+  font-family: var(--body-small);
+}
+.sign-in-page {
+  width: 100%;
+  position: relative;
+  background-color: var(--background-color);
+  height: 983px;
+  overflow-x: auto;
+  text-align: left;
+  font-size: var(--font-size-4xs-1);
+  color: var(--color-gainsboro);
+  font-family: var(--font-inter);
+}

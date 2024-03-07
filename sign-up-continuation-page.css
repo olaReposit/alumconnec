@@ -1,0 +1,291 @@
+.sign-up-continuation-page-child {
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 1510px;
+  height: 2299px;
+}
+.sign-up-card-inner {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 245px);
+  border-radius: var(--br-31xl);
+  background-color: var(--background-color);
+  width: 490px;
+  height: 1925px;
+}
+.more-step-to {
+  position: absolute;
+  top: 50px;
+  left: calc(50% - 122px);
+  font-size: var(--header-3-size);
+  font-family: var(--header-6);
+  color: var(--primary-color-1);
+  text-align: center;
+}
+.career-category {
+  position: absolute;
+  top: 0;
+  left: 30px;
+  text-transform: uppercase;
+}
+.group-child67,
+.uiux-designer-parent {
+  position: absolute;
+  left: 0;
+  width: 377px;
+  height: 56px;
+}
+.group-child67 {
+  top: 0;
+  border-radius: var(--br-12xl-5);
+  border: 2px solid var(--border-inactive);
+  box-sizing: border-box;
+}
+.uiux-designer-parent {
+  top: 30px;
+  font-size: var(--body-size);
+  color: var(--border-inactive);
+}
+.career-category-parent {
+  position: absolute;
+  top: 174px;
+  left: 57px;
+  width: 377px;
+  height: 86px;
+}
+.tell-employers-about {
+  width: 305px;
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.tell-employers-about-yourself-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-12xl-5);
+  border: 2px solid var(--border-inactive);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-mini) 36px;
+}
+.bio-parent,
+.frame-wrapper3 {
+  position: absolute;
+  width: 377px;
+}
+.frame-wrapper3 {
+  top: 25px;
+  left: 0;
+  height: 96px;
+  font-size: var(--body-size);
+  color: var(--border-inactive);
+}
+.bio-parent {
+  top: 285px;
+  left: 57px;
+  height: 121px;
+}
+.prototyping-ui-ux {
+  position: absolute;
+  top: 17px;
+  left: 36px;
+  font-weight: 600;
+  display: inline-block;
+  width: 305px;
+}
+.skills-parent {
+  position: absolute;
+  top: 438px;
+  left: 57px;
+  width: 377px;
+  height: 86px;
+}
+.company-parent,
+.courseproject-parent,
+.position-parent {
+  position: absolute;
+  top: 651px;
+  left: 57px;
+  width: 377px;
+  height: 86px;
+}
+.company-parent,
+.courseproject-parent {
+  top: 1392px;
+  left: 60px;
+}
+.company-parent {
+  top: 769px;
+  left: 57px;
+}
+.location-parent,
+.organisationcompany-parent,
+.platform-parent {
+  position: absolute;
+  top: 1510px;
+  left: 60px;
+  width: 377px;
+  height: 86px;
+}
+.location-parent,
+.platform-parent {
+  top: 887px;
+  left: 57px;
+}
+.platform-parent {
+  top: 1628px;
+  left: 60px;
+}
+.mmyyyy {
+  position: absolute;
+  top: 17px;
+  left: 36px;
+  font-weight: 600;
+  display: inline-block;
+  width: 146px;
+}
+.from-parent {
+  top: 1005px;
+  left: 54px;
+  height: 86px;
+}
+.from-parent,
+.mmyyyy-group,
+.to-parent {
+  position: absolute;
+  width: 377px;
+}
+.mmyyyy-group {
+  top: 25px;
+  left: 0;
+  height: 56px;
+  font-size: var(--body-size);
+  color: var(--border-inactive);
+}
+.to-parent {
+  top: 1128px;
+  left: 54px;
+  height: 81px;
+}
+.certification1,
+.experience1 {
+  position: absolute;
+  top: 579px;
+  left: 87px;
+  font-size: var(--header-5-size);
+  font-family: var(--header-6);
+  color: var(--primary-color-1);
+}
+.certification1 {
+  top: 1320px;
+  left: 90px;
+}
+.log-in27 {
+  position: relative;
+}
+.sign-up-btn1 {
+  position: absolute;
+  top: 1796px;
+  left: 57px;
+  border-radius: var(--br-12xl-5);
+  background-color: var(--border-active);
+  width: 376px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-mini) var(--padding-144xl);
+  box-sizing: border-box;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--header-5-size);
+  color: var(--background-color);
+  font-family: var(--header-6);
+}
+.sign-up-card-child1,
+.sign-up-card-child2 {
+  position: absolute;
+  top: 608.5px;
+  left: calc(50% - 155.5px);
+  border-top: 1px solid var(--border-inactive);
+  box-sizing: border-box;
+  width: 312px;
+  height: 1px;
+}
+.sign-up-card-child2 {
+  top: 1349.5px;
+}
+.sign-up-card2 {
+  position: absolute;
+  top: 188px;
+  left: calc(50% - 245px);
+  width: 490px;
+  height: 1925px;
+}
+.nav-child6 {
+  width: 1512px;
+  position: relative;
+  background-color: var(--color-gray-200);
+  backdrop-filter: blur(20px);
+  height: 100px;
+  z-index: 0;
+}
+.alumconnect-icon16 {
+  position: absolute;
+  top: 4.5px;
+  left: calc(50% - 40.25px);
+  width: 140.5px;
+  height: 24.3px;
+}
+.logo-mark-icon16 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 100.35px);
+  width: 35px;
+  height: 35px;
+}
+.logo-combo16 {
+  width: 200.7px;
+  position: relative;
+  height: 35px;
+}
+.logo-combo-frame,
+.nav8 {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.logo-combo-frame {
+  margin: 0 !important;
+  top: 27px;
+  left: calc(50% - 100px);
+  flex-direction: row;
+  cursor: pointer;
+  z-index: 1;
+}
+.nav8 {
+  top: 0;
+  left: 0;
+  flex-direction: column;
+  gap: 10px 0;
+}
+.sign-up-continuation-page {
+  width: 100%;
+  position: relative;
+  background-color: var(--background-color);
+  height: 2301px;
+  overflow-x: auto;
+  text-align: left;
+  font-size: var(--header-6-size);
+  color: var(--color-black);
+  font-family: var(--body-small);
+}
